@@ -75,6 +75,7 @@ Microsoft Excel, Power Query, and DAX
 
 
 # Dashboard || Report
+<img width="1868" height="949" alt="Image" src="https://github.com/user-attachments/assets/759e1db5-8c45-47e0-8d9e-17792696cee4" />
 
 # Key Insights from the Hip-Hop Artist Performance Analysis
 
