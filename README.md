@@ -66,10 +66,12 @@ Artist-level comparisons
 
 5. Data Visualization: This were used to present the results through bar charts, line charts, cards, and other dashboard elements. These visualizations made it easier to compare artists and identify trends in audience engagement.
 
-# Primary analytical tool:Microsoft Power BI
+# Primary analytical tool:
+Microsoft Power BI
 
 
-# Supporting tools:Microsoft Excel, Power Query, and DAX
+# Supporting tools:
+Microsoft Excel, Power Query, and DAX
 
 
 # Dashboard || Report
